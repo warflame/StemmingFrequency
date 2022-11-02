@@ -1,0 +1,14 @@
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..csproj.AssemblyReference.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..AssemblyInfoInputs.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..AssemblyInfo.cs
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..csproj.CoreCompileInputs.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..exe
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..deps.json
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..runtimeconfig.json
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..runtimeconfig.dev.json
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..dll
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\bin\Debug\netcoreapp3.1\StemmingFrequency..pdb
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..dll
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..pdb
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency\obj\Debug\netcoreapp3.1\StemmingFrequency..genruntimeconfig.cache
