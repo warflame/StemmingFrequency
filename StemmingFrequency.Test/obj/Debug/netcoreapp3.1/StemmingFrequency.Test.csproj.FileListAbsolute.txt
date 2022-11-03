@@ -91,8 +91,10 @@ C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\D
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\StemLibrary.dll
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\StemmingFrequency.dll
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\StemmingFrequency.pdb
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\bin\Debug\netcoreapp3.1\StemLibrary.pdb
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\obj\Debug\netcoreapp3.1\StemmingFrequency.Test.csproj.AssemblyReference.cache
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\obj\Debug\netcoreapp3.1\StemmingFrequency.Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemmingFrequency.Test\obj\Debug\netcoreapp3.1\StemmingFrequency.Test.AssemblyInfoInputs.cache

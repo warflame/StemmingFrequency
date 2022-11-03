@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "StemmingFrequency/1.0.0": {
+        "dependencies": {
+          "StemLibrary": "1.0.0"
+        },
         "runtime": {
           "StemmingFrequency.dll": {}
+        }
+      },
+      "StemLibrary/1.0.0": {
+        "runtime": {
+          "StemLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "StemmingFrequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StemLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

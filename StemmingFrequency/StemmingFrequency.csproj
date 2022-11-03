@@ -6,4 +6,8 @@
     <RootNamespace>StemmingFrequency</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StemLibrary\StemLibrary.csproj" />
+  </ItemGroup>
+
 </Project>

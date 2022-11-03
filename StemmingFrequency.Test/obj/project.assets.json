@@ -1661,9 +1661,22 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "StemLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StemLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StemLibrary.dll": {}
+        }
+      },
       "StemmingFrequency/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "StemLibrary": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/StemmingFrequency.dll": {}
         },
@@ -6203,6 +6216,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "StemLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StemLibrary/StemLibrary.csproj",
+      "msbuildProject": "../StemLibrary/StemLibrary.csproj"
     },
     "StemmingFrequency/1.0.0": {
       "type": "project",

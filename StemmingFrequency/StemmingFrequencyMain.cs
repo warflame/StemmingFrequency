@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StemLibrary;
+using System;
 using System.Collections.Generic;
 
 namespace StemmingFrequency
@@ -7,13 +8,14 @@ namespace StemmingFrequency
     {
         public static void Main(string[] args)
         {
-            Helper helper = new Helper();
-            string[] paragraphWordList = helper.GetParagraphWordList();
+            const string paragraph = "Friends are friendlier friendlies that are friendly and classify the friendly classification class. Flowery flowers flow through following the flower flows.";
+            string[] paragraphWordList = paragraph.Split(" ");
 
             Console.WriteLine("Please Insert a text : ");
             string userInputWord = Console.ReadLine();
 
-            int stemCount = GetWordFrequency(userInputWord, paragraphWordList);
+
+            int stemCount = GetStemFrequency(userInputWord, paragraphWordList);
             Console.WriteLine($"\nWord: {userInputWord} \t Frequency: {stemCount}");
 
 
@@ -27,13 +29,18 @@ namespace StemmingFrequency
 
         }
 
-        public static int GetWordFrequency(string userInputWord, string[] paragraphWordList)
-        {
-            StemLibrary stemLibrary = new StemLibrary();
-            string stemWord = stemLibrary.GetStemWord(userInputWord);
 
-            WordFrequency findWordFrequency = new WordFrequency();
-            return findWordFrequency.GetWordFrequency(userInputWord, stemWord, paragraphWordList);
+        /// <summary>
+        /// Get stem frequency by user Input
+        /// </summary>
+        /// <param name="userInputWord"></param>
+        /// <param name="paragraphWordList"></param>
+        /// <returns></returns>
+        public static int GetStemFrequency(string userInputWord, string[] paragraphWordList)
+        {
+            StemLibraryMain stemLibrary = new StemLibraryMain();
+            return stemLibrary.GetStemFrequency(userInputWord, paragraphWordList); ;
         }
+
     }
 }

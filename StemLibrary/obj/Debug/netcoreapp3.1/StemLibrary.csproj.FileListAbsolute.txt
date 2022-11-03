@@ -1,0 +1,10 @@
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\bin\Debug\netcoreapp3.1\StemLibrary.deps.json
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\bin\Debug\netcoreapp3.1\StemLibrary.dll
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\bin\Debug\netcoreapp3.1\StemLibrary.pdb
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.csproj.AssemblyReference.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.AssemblyInfoInputs.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.AssemblyInfo.cs
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.dll
+C:\Users\thari\Desktop\learn\test\StemmingFrequency\StemLibrary\obj\Debug\netcoreapp3.1\StemLibrary.pdb

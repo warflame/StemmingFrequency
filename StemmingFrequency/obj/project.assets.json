@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "StemLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StemLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StemLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "StemLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StemLibrary/StemLibrary.csproj",
+      "msbuildProject": "../StemLibrary/StemLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "StemLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thari\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thari\\Desktop\\learn\\test\\StemmingFrequency\\StemLibrary\\StemLibrary.csproj": {
+              "projectPath": "C:\\Users\\thari\\Desktop\\learn\\test\\StemmingFrequency\\StemLibrary\\StemLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
